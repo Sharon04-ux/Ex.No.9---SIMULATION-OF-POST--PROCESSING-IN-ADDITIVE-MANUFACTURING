@@ -46,9 +46,16 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![Screenshot 2025-05-02 111044](https://github.com/user-attachments/assets/d30ce436-ba1d-4596-9d1f-b6d02572d112)
 
-### Name:
-### Register Number:
+![Screenshot 2025-05-02 111102](https://github.com/user-attachments/assets/aae6a5f5-2a6b-48cf-b84f-2e620d4e5c02)
+
+![Screenshot 2025-05-02 111117](https://github.com/user-attachments/assets/520cd544-ccfe-4dfb-a844-03d60bcd2806)
+
+
+
+### Name:SHARON ARUL BHARATHI J.F.
+### Register Number:212224100056
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
